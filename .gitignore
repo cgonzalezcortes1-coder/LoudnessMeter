@@ -37,5 +37,12 @@
 *.out
 *.app
 
+build/
+cmake-build-*/
+*.vst3
+*.component
+.DS_Store
+
+
 # debug information files
 *.dwo
